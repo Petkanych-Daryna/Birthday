@@ -1,0 +1,92 @@
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+a{
+    text-decoration: none;
+    color: currentColor;
+}
+li{
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6,html,main,body,p,ol,ul,li{
+    margin: 0;
+    padding: 0;
+}
+
+/* ========================header==================== */
+.main-title{
+    color: #ffffff;
+    background-color: #d75151;
+display: flex;
+justify-content: center;
+font-size: 50px;
+letter-spacing: 20px;
+
+}
+
+/* =========================main===================== */
+main{
+    padding: 0;
+    margin: 0 auto;
+}
+.day{
+    background-color: #7778de;
+}
+.day-list{}
+.day-item{
+}
+.day-img{
+margin-left: 450px;
+
+}
+.day-title{
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    margin: 20px;
+}
+.day-text{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+.line{
+    height: 10px;
+    color: #6d3cf5;
+    background-color: #6d3cf5;
+    padding-bottom: 20px;
+    border-radius: 100px;
+}
+.party{
+    background-color: khaki;
+}
+.party-list{}
+.party-item{}
+.party-img{
+    margin-left: 450px;
+}
+.party-titel{
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    margin: 20px;
+}
+
+.party-text{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 20px;
+}
+
+/* ============================footer================== */
+.subtitle{
+    text-align: center;
+padding-top: 40px;
+padding-bottom: 40px;
+font-size: 60px;
+letter-spacing: 20px;
+background-color: chartreuse;
+}
